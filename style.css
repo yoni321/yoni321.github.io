@@ -47,6 +47,8 @@
 }
 
 .youtubeurl {
+    position: fixed;
+    left: 470px;
     width: 61px;
     height: 61px;
     animation: url-load 1.5s cubic-bezier(0.42, 0, 0.68, 1.91); 
