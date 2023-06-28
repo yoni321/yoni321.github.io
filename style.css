@@ -130,7 +130,7 @@
  .game-info {
     position: fixed;
     size: 10ch;
-    top: 52px;
+    top: 64px;
     font-size: 50px;
     color: black;
     text-align: center;
@@ -186,8 +186,8 @@
     color: black;
     font-size: 50px;
     position: fixed;
-    top: 37%;
-    margin-left: 37%;
+    top: 41%;
+    margin-left: 40%;
     animation: avatar-scale 1s;
 }
 
@@ -195,8 +195,8 @@
     color: black;
     font-size: 50px;
     position: fixed;
-    top: 44%;
-    margin-left: 40%;
+    top: 50%;
+    margin-left: 39.5%;
     animation: avatar-scale 1s;
 }
 
@@ -204,7 +204,7 @@
     color: black;
     font-size: 50px;
     position: fixed;
-    top: 43%;
+    top: 50%;
     margin-left: 39%;
     animation: avatar-scale 1s;
 }
@@ -228,8 +228,8 @@
     color: black;
     font-size: 50px;
     position: fixed;
-    top: 37%;
-    margin-left: 35%;
+    top: 40.5%;
+    margin-left: 39%;
     animation: avatar-scale 1s;
 }
 
@@ -237,7 +237,7 @@
     color: black;
     font-size: 50px;
     position: fixed;
-    top: 50%;
+    top: 40%;
     margin-left: 46%;
     animation: avatar-scale 1s;
     text-decoration: none;
@@ -258,9 +258,9 @@
 
 .games {
     position: fixed;
-     left: 46%;
+     left: 64%;
      size: 10ch;
-     top: 56px;
+     top: 64px;
      font-size: 50px;
      color: black;
      animation: yonisite 1s;
@@ -277,7 +277,7 @@
 
 .cal-position {
     position: fixed;
-     left: 64%;
+     left: 47%;
      size: 10ch;
      top: 64px;
      font-size: 50px;
