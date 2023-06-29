@@ -169,7 +169,7 @@
     font-size: 56px;
     position: fixed; 
     top: 30%; 
-    margin-left: 45%;
+    margin-left: 42.5%;
     animation: avatar-scale 1s;
 
 }
@@ -179,7 +179,7 @@
     font-size: 56px;
     position: fixed; 
     top: 40%; 
-    margin-left: 44%;
+    margin-left: 42.5%;
     animation: avatar-scale 1s;
 
 }
@@ -240,7 +240,7 @@
     font-size: 50px;
     position: fixed;
     top: 40%;
-    margin-left: 46%;
+    margin-left: 44%;
     animation: avatar-scale 1s;
     text-decoration: none;
     a:visited {text-decoration: none;}
